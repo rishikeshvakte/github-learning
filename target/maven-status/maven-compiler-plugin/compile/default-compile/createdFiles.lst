@@ -1,0 +1,3 @@
+com\mydemo\sbfileupload\SpringBootFileUploadApplication.class
+com\mydemo\sbfileupload\controller\MyFileUploadController.class
+com\mydemo\sbfileupload\form\MyUploadForm.class
